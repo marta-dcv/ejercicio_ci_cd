@@ -9,3 +9,6 @@ def to_lower(text):
 
 def hola():
     return "Hola"
+
+def adios():
+    return "adiós"
